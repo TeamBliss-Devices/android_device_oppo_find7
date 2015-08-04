@@ -18,7 +18,9 @@
     "revision": "cm-12.1"
   },
   {
+    "remote": "TeamBliss-Devices",
     "repository": "android_device_oppo_common",
-    "target_path": "device/oppo/common"
+    "target_path": "device/oppo/common",
+    "revision": "lp5.1"
   }
 ]
